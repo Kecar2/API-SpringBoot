@@ -6,7 +6,6 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import es.cabsa.javadevelopers.models.Animal;
 import es.cabsa.javadevelopers.models.Food;
 import es.cabsa.javadevelopers.repositories.FoodRepo;
 
